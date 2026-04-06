@@ -4,6 +4,7 @@
 int main(){
 char str[100];
 int i, count=0;
+printf("_25331a05d8_\n");
 printf("enter a string:");
 scanf("%s",&str);
 for(i=0;str[i]!='\0';i++){
